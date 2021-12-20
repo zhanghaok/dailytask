@@ -23,4 +23,6 @@
 - MyBatis
 - maven 3.0.11
 ## 3 Demo效果
+![image](https://user-images.githubusercontent.com/39120036/146700972-d51029b8-5ed8-4bd5-a348-205f11854980.png)
+
 https://www.bilibili.com/video/BV1Uh411v7WV
